@@ -39,6 +39,15 @@ section.services {
     width: 100%;
 }
 
+.form-control {
+    background-color: transparent;
+    margin-top: 2rem;
+}
+
+.form-control::placeholder {
+    color: white;
+}
+
 input.form-control {
     width: 25%;
     margin-left: 2rem;
@@ -46,4 +55,5 @@ input.form-control {
 
 .contact-us {
     background-image: url("../assets/backgrounds/c_image.jpg");
+    color: white;
 }
