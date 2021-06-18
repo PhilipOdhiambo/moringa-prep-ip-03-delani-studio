@@ -5,6 +5,14 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+h2 {
+    margin-bottom: 2rem;
+}
+
+h4 {
+    font-weight: 800;
+}
+
 header {
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
@@ -35,9 +43,14 @@ section.services {
     display: none;
 }
 
+.what-we-do .col-md-4:hover {
+    cursor: pointer;
+}
+
 .portfolio .col-md-3 {
     margin-bottom: 2rem;
 }
+
 
 .portfolio img {
     width: 100%;
