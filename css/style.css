@@ -1,3 +1,10 @@
+/* Import google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 header {
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
@@ -6,6 +13,11 @@ header {
     text-align: center;
     padding-top: 10rem;
 
+}
+
+section.services {
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    color: white;
 }
 
 .portfolio .col-md-3 {
