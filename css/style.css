@@ -1,7 +1,7 @@
 header {
-    height: 80vh;
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     color: white;
     text-align: center;
     padding-top: 10rem;
