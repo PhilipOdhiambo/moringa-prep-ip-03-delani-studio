@@ -18,6 +18,14 @@ header .hero {
     margin-top: 10rem;
 }
 
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+    text-align: center;
+}
+
 section.services {
     background-image: url("../assets/backgrounds/s_image.jpg");
     color: white;
