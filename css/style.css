@@ -64,6 +64,11 @@ section.services {
     height: 100%;
 }
 
+form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
 
 
 .portfolio img {
@@ -80,6 +85,11 @@ section.services {
     color: white;
 }
 
+.form-control:focus {
+    background-color: transparent;
+    color: white;
+}
+
 input.form-control {
     width: 25%;
     margin-left: 2rem;
@@ -88,4 +98,11 @@ input.form-control {
 .contact-us {
     background-image: url("../assets/backgrounds/c_image.jpg");
     color: white;
+}
+
+.submit-alert {
+    background-color: rgba(255, 99, 71, 0.671);
+    width: 50%;
+    padding: 2rem;
+    border-radius: .7rem;
 }
