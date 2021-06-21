@@ -19,7 +19,7 @@ This website is for Delani Studios to showcase what we do and to be able to cont
 - Bootstrap for CSS
 
 ### DEMO:
-Checkout the website [here]()
+Checkout the website [here](https://philipodhiambo.github.io/moringa-prep-ip-03-delani-studio/)
 
 ### HOW TO INSTALL
 
